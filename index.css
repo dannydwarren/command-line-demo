@@ -3,9 +3,14 @@
 }
 
 .section-blue {
-	background-color: yellow;
+	background-color: blue;
 }
 
 .section-red {
-	background-color: indigo;
+	background-color: red;
+}
+
+main {
+	display: flex;
+	flex-direction: row-reverse;
 }
